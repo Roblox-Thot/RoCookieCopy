@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "CookieCopy",
+    "version": "1.0",
+
+    "description": "Copy Roblo.",
+
+    "permissions": ["menus",
+    "storage",
+    "activeTab",
+    "tabs",
+    "cookies",
+    "*://*.roblox.com/*"],
+
+    "background": {
+        "scripts": ["background.js"]
+    }
+}
