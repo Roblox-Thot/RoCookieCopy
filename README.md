@@ -1,5 +1,7 @@
 # RoCookieCopy
-Firefox copy cookie and remove cookie
+Firefox copy cookie and remove cookie.
+
+Mostly made so I could test a bot quicker, but I'll _try_ to keep this working.
 
 ## Copy cookie
 Sets your Roblox cookie to your clipboard
