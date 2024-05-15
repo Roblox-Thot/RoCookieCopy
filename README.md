@@ -1,3 +1,6 @@
+> [!WARNING]
+> This can't copy cookies from an incog window! (yet)
+
 # RoCookieCopy
 Firefox copy cookie and remove cookie.
 
